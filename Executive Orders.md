@@ -93,6 +93,6 @@ The appointment of the congressmen shall now be made every week using the same p
 
 ### Status
 
-**Pending implementation** due to possbile dispute
+**Executive Order Implemented** on May 20th 2021, 22:00 ET.
 
 ### 🗽
