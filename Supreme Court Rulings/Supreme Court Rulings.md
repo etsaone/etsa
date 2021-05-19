@@ -33,7 +33,7 @@ The Supreme Court of the ETSA (SCOTSA) is the highest court in the federal judic
 > Verdict:
 > ```
 
-## Look for cases in [this directory](../Supreme%20Court%20Rulings.md) of the Government of ETSA.
+## Look for cases in [this directory](../Supreme%20Court%20Rulings) of the Government of ETSA.
 
 🗽
 
