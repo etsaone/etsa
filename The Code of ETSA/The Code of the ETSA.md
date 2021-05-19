@@ -6,6 +6,8 @@ We the members of commonwealth, in order to form a more perfect union, ensured w
 
 ---
 
-## § 1 Title: [The Constitution of The ETSA](Constitution.md)
+## § 1 Title: [The Constitution of The ETSA](../Constitution.md)
 
 As per Amendment VI of the Constitution, the Code of the ETSA and the Constitution are mutual to each other, and the first title in the code shall always describe the values enshrined in the constitution.
+
+## More in the [ETSA Government Directory](../The%20Code%20of%20ETSA)...
