@@ -29,4 +29,7 @@ Jury not created.
 ### Verdict
 Enter the majority verdict of the Supreme Court here.
 
+### Status
+Verdict Implemented.
+
 ### 🗽
