@@ -96,7 +96,7 @@ The President cannot have direct digital permissions to be able to single-handed
 
 ## Section 5
 
-The President will be sworned in on the 14th day of every second month, thereof, serving for a term of 2 months.
+The President will be sworned in on the 28th day of every month, thereof, serving for a term of 1 month.
 
 There is no limit on how many terms a president can keep serving in the office unless they lose the popular vote.
 
@@ -120,7 +120,7 @@ Any member of the Congress can contest for the office of the President of the Co
 
 ### Clause 2
 
-The Presidential Election Season begins on the 1st day of every second month, when members of the Congress can sign themselves up for the candidacy, and can start campaigning their way to Presidency.
+The Presidential Election Season begins on the 20th day of every month, when members of the Congress can sign themselves up for the candidacy, and can start campaigning their way to Presidency.
 
 ### Clause 3
 
@@ -129,9 +129,9 @@ The election will be in two stages.
 1. Presidential Primary. 
 2. The final Presidential election.
 
-The Presidential Primary will be held on 6th day of the election month, when all the candidates will be voted by the ordinary citizens of the commonwealth. Each citizen will be able to vote for two candidates of their choice. The candidate that gets more than 50 percent of the total eligible votes, gets sworned in as the President. If no candidate reaches that mark by the 9th day of that month, the second stage begins.
+The Presidential Primary will be held on 24th day of the election month, when all the candidates will be voted by the ordinary citizens of the commonwealth. Each citizen will be able to vote for two candidates of their choice. The candidate that gets more than 50 percent of the total eligible votes, gets sworned in as the President. If no candidate reaches that mark by the 26th day of that month, the second stage begins.
 
-The top two candidates of the Presidential Primary qualify for the Final Presidential Election. Every member of the Commonwealth can this time, only vote one candidate. The final Presidential candidate that gets more than 50 percent of the total eligible votes in the second stage by the end of the 13th day of the month, gets sworned in as the President.
+The top two candidates of the Presidential Primary qualify for the Final Presidential Election. Every member of the Commonwealth can this time, only vote one candidate. The final Presidential candidate that gets more than 50 percent of the total eligible votes in the second stage by the end of the 28th day of the month, gets sworned in as the President.
 
 ### Clause 4
 
@@ -255,9 +255,9 @@ The sitting President, Vice President, the Speaker and members of the Executive 
 
 ## Section 6
 
-The office term of the Chief Justice, is of two months.
+The office term of the Chief Justice, is of one months.
 
-At the end of every Presidential term, on 10th day of the Presidential Election month, the sitting  President can appoint any member from the commonwealth as a judge-select.
+At the end of every Presidential term, on 25th day of the month, the sitting  President can appoint any member from the commonwealth as a judge-select.
 
 If the judge-select gets 50%+ majority YAY votes in the senate, the judge-select gets sworned in as the Chief Justice on the same day when the new President gets sworned.
 
