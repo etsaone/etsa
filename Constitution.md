@@ -461,7 +461,7 @@ Small changes to the Constitution can be made, using the procedure given in the 
 
 - The Green Card Holder must be a unique person, in order to receive Citizenship.
 
-- For the Green Card Holder to become a Citizen in ETSA, other requirements may also apply as per the Congressional Legislations in the future.
+- For the Green Card Holder to become a Citizen of ETSA, other requirements may also apply as per the Congressional Legislations in the future.
 
 ---
 
