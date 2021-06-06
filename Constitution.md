@@ -463,6 +463,20 @@ Small changes to the Constitution can be made, using the procedure given in the 
 
 - For the Green Card Holder to become a Citizen of ETSA, other requirements may also apply as per the Congressional Legislations in the future.
 
+## Amendment IX
+
+### Clause 1
+
+The Federal government or no state shall make or enforce any law which shall abridge the privileges or immunities of citizens of ETSA; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+### Clause 2
+
+The rights protected in the constitution will adopt an official interpretation, that the Government is to make no legislation violating these crucial constitutional rights. Thus, the government will recognize the difference between State and Private, where Private organizations and capital may create their own rules to their respective private property unless it were to violate anti-discrimination legislation.
+
+### Clause 3
+
+Private businesses will have the same constitutional rights as any other citizen, prohibiting the Federal government from interfering in their Freedom of Speech or other due to their business status.
+
 ---
 
 # Preamble
