@@ -447,6 +447,22 @@ Constitutional Amendments once made, cannot be struck down, and cannot be remove
 
 Small changes to the Constitution can be made, using the procedure given in the Clause 2 of this Amendment.
 
+## Amendment VIII
+
+### Clause 1
+
+- Any reference to the word "member"(s), "one", "person"(s), "citizen"(s), and other similar words in the Constitution, shall refer to a complete Citizen of ETSA. 
+
+- However, Congress reserves the right to interpret those words in a more specific sense, which may contradict the Clause 1 A of this Amendment.
+
+### Clause 2
+
+- For a Green Card Holder to become a complete citizen of ETSA, the Green Card Holder must be active in the commonwealth, for 3-4 days a week.
+
+- The Green Card Holder must be a unique person, in order to receive Citizenship.
+
+- For the Green Card Holder to become a Citizen of ETSA, other requirements may also apply as per the Congressional Legislations in the future.
+
 ---
 
 # Preamble
