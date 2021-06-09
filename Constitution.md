@@ -8,15 +8,15 @@ All legislative Powers herein granted shall be vested in a Congress of the commo
 
 ## Section 2
 
-Each member of The House of Representatives and The Senate will be chosen on 28th day of every month by the Monarch of the Commonwealth.
+Each member of The House of Representatives and The Senate will be elected on 15th and 28th day of every month.
 
 ## Section 3
 
-The number of members in The House of Representatives and The Senate will be hereby, decided by the Congress of the commonwealth.
+The number of members in The House of Representatives and The Senate will be hereby, decided by the Congress of the commonwealth via legislation.
 
 ## Section 4
 
-Every member of the Congress who is not the Vice President or the Speaker of the house shall hold the power and weight of one vote, in any poll, bill, or election.
+Every member of the Congress shall hold the power and weight of one vote, in any bill, or election.
 
 ## Section 5
 
@@ -30,7 +30,7 @@ The Vice President will be selected by the sitting  President of the commonwealt
 
 The Speaker of the House will be the chairman of the proceedings in the House of Representatives.
 
-The Speaker of the House will be selected by the Monarch of the Commonwealth.
+The Speaker of the House will be elected by the members of the House of Representatives.
 
 ### Clause 3
 
@@ -60,7 +60,7 @@ To avoid the bill from getting invalidated by the sitting President, the Congres
 
 ## Section 7
 
-Members in the Congress are appointed by the Monarchy, taking into consideration the will of the people of the Commonwealth.
+The Monarchy can sometimes make emergency appointments in the House of Representatives taking into consideration the will of the people of the commonwealth.
 
 # Article II
 
@@ -96,7 +96,7 @@ The President cannot have direct digital permissions to be able to single-handed
 
 ## Section 5
 
-The President will be sworned in on the 28th day of every month, thereof, serving for a term of 1 month.
+A President will be sworned in on 15th and 28th day of every month, thereof, serving for a term of approximately half a month.
 
 There is no limit on how many terms a president can keep serving in the office unless they lose the popular vote.
 
@@ -104,9 +104,9 @@ There is no limit on how many terms a president can keep serving in the office u
 
 The President can appoint and vacant the office of the Vice President and the Executive staff anytime, anywhere, without needing to give the Commonwealth any valid explanation.
 
-The President can choose any member of the Congress to serve for the office of Vice President.
+The President can choose any member in the commonwealth to serve for the office of the Vice President.
 
-The President can choose any two members in the entire commonwealth to serve as the Executive staff members.
+The President can choose any members in the entire commonwealth to serve as Executives in the President's Cabinet.
 
 The President gets to choose the Police Officers of the commonwealth.
 
@@ -116,11 +116,11 @@ The President may or may not appoint any of the above-mentioned posts, and filli
 
 ### Clause 1
 
-Any member of the Congress can contest for the office of the President of the Commonwealth.
+Any citizen can contest for the office of the President of the Commonwealth.
 
 ### Clause 2
 
-The Presidential Election Season begins on the 20th day of every month, when members of the Congress can sign themselves up for the candidacy, and can start campaigning their way to Presidency.
+The Presidential Election Season begins on the 9th and 21st day of every month, when citizens can sign themselves up for the candidacy, and can start campaigning their way to Presidency.
 
 ### Clause 3
 
@@ -129,9 +129,9 @@ The election will be in two stages.
 1. Presidential Primary. 
 2. The final Presidential election.
 
-The Presidential Primary will be held on 24th day of the election month, when all the candidates will be voted by the ordinary citizens of the commonwealth. Each citizen will be able to vote for two candidates of their choice. The candidate that gets more than 50 percent of the total eligible votes, gets sworned in as the President. If no candidate reaches that mark by the 26th day of that month, the second stage begins.
+The Presidential Primary will be held on 10th and 22nd day of every month, when all the candidates will be voted by the ordinary citizens of the commonwealth. Each citizen will be able to vote for two candidates of their choice. The candidate that gets more than 50 percent of the total eligible votes, gets sworned in as the President. If no candidate reaches that mark by the 13th and 25th day of that month, the second stage begins.
 
-The top two candidates of the Presidential Primary qualify for the Final Presidential Election. Every member of the Commonwealth can this time, only vote one candidate. The final Presidential candidate that gets more than 50 percent of the total eligible votes in the second stage by the end of the 28th day of the month, gets sworned in as the President.
+The top two candidates of the Presidential Primary qualify for the Final Presidential Election. Every member of the commonwealth can this time, only vote one candidate. The final Presidential candidate that gets more than 50 percent of the total eligible votes in the second stage by the end of the 15th and 28th day of the month, gets sworned in as the President.
 
 ### Clause 4
 
@@ -139,7 +139,7 @@ If ever there is a tie, the Monarch can step in at any stage of the election to 
 
 ### Clause 5
 
-The exact election timings are subject to flexibility by the Monarch and the Federal Election Commission of the Commonwealth.
+The exact election timings are subject to flexibility by the Federal Election Commission of the Commonwealth.
 
 ### Clause 6
 
@@ -157,7 +157,7 @@ Any member of the House of Representatives has the right to put forth the articl
 
 ### Clause 2
 
-If the House votes YAY on it, by a two thirds majority, the Articles of the Impeachment can proceed forward to the Senate chamber.
+If the House votes to impeach, by a three fourth majority, the Articles of the Impeachment can proceed forward to the Senate chamber.
 
 ### Clause 3
 
@@ -191,11 +191,11 @@ The Monarchy is regarded as separate from the Legislative, Executive and the Jud
 
 Generally, in the context of online communities, "The Server Owner" is considered to have all the powers of the Monarch.
 
-**ETSA One is the head of the Monarchy, & the Monarch of the ETSA.**
+**ETSA One is the Monarch of the ETSA.**
 
 ## Section 2
 
-The Monarch is the head of the Monarchy. This branch yields THE MEGA ABSOLUTE POWER OVER THE ENTIRETY OF THE COMMONWEALTH.
+The Monarch is the head of the Monarchy.
 
 This Democracy, This constitution is all created and authorised and run by the Monarchy of the Commonwealth. All the Monarch's powers are passed on to the legislative, executive and the judicial branches democratically using this constitution, at will of the Monarch.
 
@@ -225,13 +225,13 @@ However, to ensure the trust of the people in the Democracy, it is recommended t
 
 ## Section 1
 
-The Supreme Court of the Commonwealth holds the absolute power to interpret the meaning of the constitution and indirectly fill the gaps where needed.
+The Supreme Court of the Commonwealth is the highest court of ETSA. It holds the absolute power to interpret the meaning of the constitution & the laws and can indirectly fill the gaps where needed.
 
-It shall consist of at least one judge. The number of judges allowed in the Supreme Court can be changed using Congressional legislations.
+It shall consist of at least one judge. The maximum number of judges allowed in the Supreme Court shall be three, including a Chief Justice and other Associate Justices.
 
 ## Section 2
 
-The Chief Justice presides over all the cases in the Supreme Court. In absence of the Chief Justice, the Monarch becomes the temporary Chief Justice.
+The Chief Justice and the Associate Justices shall preside over all the cases in the Supreme Court. In absence of the Chief Justice, the Monarch becomes the temporary Chief Justice.
 
 The majority order of the presiding judges over a case, will be considered as an order from the Supreme Court which shall be obeyed.
 
@@ -243,29 +243,25 @@ The Congress may present a bill to try to overturn a Supreme Court ruling, it ca
 
 ## Section 4
 
-The Supreme Court or the Chief Justice cannot start any proceedings and sessions by itself.
-
-A judge can never sue any other person by themselves. Someone who is not a judge will need to file a lawsuit.
-
-If a judge is directly or indirectly involved in some case, they should not preside over that case to avoid bias. A monarch has the right to stop a judge from hearing a case if they find any pre-involvement of the judge in the case.
+If a judge is directly or indirectly involved in some case, they should not preside over that case to avoid bias. The Monarchy has the right to stop a judge from hearing a case if they find any pre-involvement of the judge in the case.
 
 ## Section 5
 
-The sitting President, Vice President, the Speaker and members of the Executive staff & the Police Officers cannot hold the position of the Chief Justice in any way whatsoever.
+The sitting President, Vice President, the Speaker of the House, the elected members in the Congress, members of the Executive staff & the Police Officers cannot hold the position of a Judge in any way whatsoever.
 
 ## Section 6
 
-The office term of the Chief Justice, is of one months.
+The office term of the Chief Justice, is of one month.
 
-At the end of every Presidential term, on 25th day of the month, the sitting  President can appoint any member from the commonwealth as a judge-select.
+At the end of every Chief Justice term, or if the position of the Chief Justice is vacant, the sitting President can appoint any member from the commonwealth as a chief-justice-select.
 
-If the judge-select gets 50%+ majority YAY votes in the senate, the judge-select gets sworned in as the Chief Justice on the same day when the new President gets sworned.
+The President can also appoint Associate Justices (justice-select), if their position is vacant.
 
-If the judge-select does not get sworned in, the next President may choose to appoint a new judge-select and try to get approval thereof by the senate majority vote.
+If a justice-select gets 50%+ majority votes in the Senate, the judge-select gets sworned in as the Chief Justice.
 
 ## Section 7
 
-A chief justice can never ever be impeached. The chief justice loses office only if the term ends or if they resign or if they die.
+To impeach a sitting Judge, Congress shall require 75%+ majority votes in both the House and the Senate, and shall also require the consent of the sitting President, and the last former unique President.
 
 ## Section 8
 
@@ -273,7 +269,9 @@ If the Congress is sued in the court over legislating an unconstitutional bill, 
 
 ## Section 9
 
-Supreme Court verdicts are supposed to have a special Constitutional Validity. Every Supreme Court verdict sets a huge precedence, that precedence is supposed to guide the judgement of the future judges presiding over future Supreme Court cases.
+Supreme Court verdicts are supposed to have a special Constitutional Validity. Every Supreme Court verdict sets a huge precedence, that precedence is supposed to guide the judgement of the future judges presiding over future Supreme Court cases. 
+
+The rulings of the Supreme Court shall dictate all other courts in the Commonwealth.
 
 # Article V
 
@@ -283,11 +281,9 @@ The federal election commission of the commonwealth is an independent institutio
 
 ## Section 2
 
-The Monarch is the chairman of the election commission. He/she can appoint any amount of members as election commissioners.
+The Monarch is the chairman of the election commission. He/she can appoint or fire any amount of members as election commissioners.
 
 These people have no term limits, and this whole government branch works and operates under the supervision of the monarchy of the commonwealth.
-
-Election commissioners can be hired and fired anytime by the Monarchy.
 
 ## Section 3
 
@@ -333,7 +329,7 @@ The Federal Reserve Bank will be owned & controlled by the Federal Reserve Syste
 
 Congress or any government body shall pass no law that infringes and tramples upon the unalienable, god-given rights of free speech, thereof is protected for the citizens of the commonwealth, by this constitution.
 
-Exceptions to this rule are, threatening calls to action, the Chat Platform TOS, Doxxing and Privacy related laws, laws related to Treason, Defamation based on false premises, misinformation, and spamming.
+Exceptions to this rule are, threatening calls to action, the Chat Platform TOS, Doxxing and Privacy related laws, obscenity, laws related to Treason, Defamation based on false premises, misinformation, and spamming.
 
 ## Amendment II
 
@@ -343,7 +339,7 @@ The commonwealth shall always be secular.
 
 ### Clause 2
 
-All men are created equal. Congress or any government body shall pass no law that discriminates based on gender, religion, caste, race or ethnicity of its members.
+All men are created equal. Congress or any government body shall pass no law that discriminates based on gender, sexuality, religion, caste, race or ethnicity of its members.
 
 ## Amendment III
 
@@ -451,23 +447,23 @@ Small changes to the Constitution can be made, using the procedure given in the 
 
 ### Clause 1
 
-- Any reference to the word "member"(s), "one", "person"(s), "citizen"(s), and other similar words in the Constitution, shall refer to a complete Citizen of ETSA. 
+Any reference to the word "member"(s), "person"(s), "citizen"(s), and other similar words in the Constitution, shall refer to a complete Citizen of ETSA. 
 
-- However, Congress reserves the right to interpret those words in a more specific sense, which may contradict the Clause 1 A of this Amendment.
+However, Congress reserves the right to interpret those words in a more specific sense, which may contradict the Clause 1 A of this Amendment.
 
 ### Clause 2
 
-- For a Green Card Holder to become a complete citizen of ETSA, the Green Card Holder must be active in the commonwealth, for 3-4 days a week.
+For a Green Card Holder to become a complete citizen of ETSA, the Green Card Holder must be active in the commonwealth, for 3-4 days a week.
 
-- The Green Card Holder must be a unique person, in order to receive Citizenship.
+The Green Card Holder must be a unique person, in order to receive Citizenship.
 
-- For the Green Card Holder to become a Citizen of ETSA, other requirements may also apply as per the Congressional Legislations in the future.
+For the Green Card Holder to become a Citizen of ETSA, other requirements may also apply as per the Congressional Legislations in the future.
 
 ## Amendment IX
 
 ### Clause 1
 
-The Federal government or no state shall make or enforce any law which shall abridge the privileges or immunities of citizens of ETSA; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+The Federal government or no state shall make or enforce any law which shall abridge the privileges or immunities of the citizens; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
 ### Clause 2
 
@@ -476,6 +472,34 @@ The rights protected in the constitution will adopt an official interpretation, 
 ### Clause 3
 
 Private businesses will have the same constitutional rights as any other citizen, prohibiting the Federal government from interfering in their Freedom of Speech or other due to their business status.
+
+## Amendment X
+
+### Clause 1
+
+Every State in the Commonwealth shall have the right enforce its own laws, which may supercede the Federal laws, but cannot supercede the Federal Constitution, or the decisions of the Federal Supreme Court.
+
+### Clause 2
+
+The Senate shall represent every State of the Commonwealth. Every State shall have the right to send one representative in the Senate.
+
+### Clause 3
+
+Each State shall elect its own Governor, and can have a Constitution, a Congress, and a Supreme Court of its own, to decide its own laws. 
+
+It can have its own Executive, Legislative, and a Judiciary system, working its own way, independent of how the Federal Government systems work. If a State Constitution doesn't have these Government systems defined, the procedure in the Federal Constitution shall be considered.
+
+### Clause 4
+
+No Article, or Section, or Clause in the State Constitution nor any State law shall ever supercede the Federal Constitution. However, State Laws can supercede Federal Laws. 
+
+### Clause 5
+
+The Federal Supreme Court has the right to overrule any State Supreme Court, or any other Court in the entire commonwealth.
+
+### Clause 6
+
+To add a new State in the commonwealth, the Federal Congress shall need 75%+ majority votes in both the Houses. The consent of the sitting President, the Monarchy and consent of the Federal Supreme Court shall also be needed, thereof, to create a brand new state.
 
 ---
 
