@@ -247,7 +247,9 @@ If a judge is directly or indirectly involved in some case, they should not pres
 
 ## Section 5
 
-The sitting President, Vice President, the Speaker of the House, the elected members in the Congress, members of the Executive staff & the Police Officers cannot hold the position of a Judge in any way whatsoever.
+The sitting President, Vice President, the Speaker of the House, the elected members in the Congress, members of the Executive staff & the Police Officers cannot hold the position of a Judge in any way whatsoever. 
+
+Congress may add additional rules for Judicial Eligibility via legislation.
 
 ## Section 6
 
