@@ -273,6 +273,10 @@ Supreme Court verdicts are supposed to have a special Constitutional Validity. E
 
 The rulings of the Supreme Court shall dictate all other courts in the Commonwealth.
 
+## Section 10
+
+In cases of Constitutional Reviews, and when interpreting the Constitution, the opinions and vision of the Founding Fathers shall also be considered by the Supreme Court.
+
 # Article V
 
 ## Section 1
