@@ -507,6 +507,10 @@ The Federal Supreme Court has the right to overrule any State Supreme Court, or 
 
 To add a new State in the commonwealth, the Federal Congress shall need 75%+ majority votes in both the Houses. The consent of the sitting President, the Monarchy and consent of the Federal Supreme Court shall also be needed, thereof, to create a brand new state.
 
+## Amendment XI
+
+This constitution shall now grant Congress the authority to create a new said constitution (in times of inactivity) that shall stay in place as long as this amendment itself is reverted in favour of reinstatement of the Seventh Amendment.
+
 ---
 
 # Preamble
