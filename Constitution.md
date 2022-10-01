@@ -509,7 +509,7 @@ To add a new State in the commonwealth, the Federal Congress shall need 75%+ maj
 
 ## Amendment XI
 
-This constitution shall now grant Congress the authority to create a new said constitution (in times of inactivity) that shall stay in place as long as this amendment itself is reverted in favour of reinstatement of the Seventh Amendment.
+This constitution shall now grant Congress the authority to create a new said constitution (in times of inactivity) that shall stay in place as long as this amendment itself is reverted in favour of reinstatement of [the Seventh Amendment](#amendment-vii).
 
 ---
 
