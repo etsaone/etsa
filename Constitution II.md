@@ -37,12 +37,12 @@ As proposed to the Constitutional Convention by Ash Ricci on Oct 2nd 2022, eligi
 2. The President and Vice President shall be elected on a joint ticket to serve terms lasting 3 weeks.
 3. Any person looking to run for President or Vice President must have resided within the server for more than 1 week
 4. Congress shall have the power to create and dissolve executive departments through executive order, however the following departments are to be created by this constitution and may not be dissolved without constitutional amendment:
-5. Justice Department
-6. Finance Department
-7. State Department
+   - Department of Justice (DoJ)
+   - The Federal Reserve
+   - Department of State
 8. The head of each department shall be nominated by the President and confirmed by a majority vote in congress and shall serve until removed from office or resigning.
-9. The President may fire any department head for any reason.
-10. The President may not directly meddle in the affairs of any department, the head of each department shall have authority over the functions of their department.
+    - The President may fire any department head for any reason.
+    - The President may not directly meddle in the affairs of any department, the head of each department shall have authority over the functions of their department.
 11. Should the President resign or be removed from office, the following chain of succession shall be used:
     - Vice President
     - Speaker of Congress
@@ -134,12 +134,9 @@ As proposed to the Constitutional Convention by Ash Ricci on Oct 2nd 2022, eligi
 7. No piece of evidence not specified in an official’s Articles of Impeachment may be used against the official in question in their impeachment trial.
 8. Once impeached, an official shall receive a trial before the Impeachment Court within 2 days
 9. The Impeachment court shall consist of the following:
-   1. The Speaker of Congress
-     - If the speaker of congress is being impeached, the congress shall elect another representative to serve on the Court.
-   2. The President
-     - If the President is being impeached, the Vice President shall take their place on the court.
-   3. The Chief Justice of the Supreme Court
-     - If the Chief Justice is being impeached, the remaining justices shall select one of their own to serve on the Court.
+   1. **The Speaker of Congress:** If the speaker of congress is being impeached, the congress shall elect another representative to serve on the Court.
+   2. **The President:** If the President is being impeached, the Vice President shall take their place on the court.
+   3. **The Chief Justice of the Supreme Court:** If the Chief Justice is being impeached, the remaining justices shall select one of their own to serve on the Court.
 10. Should there be a spot on the Impeachment Court that cannot be filled as specified above, the longest serving State Governor shall be given that seat. Should multiple seats be empty, the next longest serving governor will be given the next seat.
 11. Should a majority of the Impeachment Court find the official guilty they will be removed from office.
 12. If the official was removed for committing a crime, the official shall then receive a sentencing hearing before a Commonwealth Court.
@@ -158,7 +155,7 @@ As proposed to the Constitutional Convention by Ash Ricci on Oct 2nd 2022, eligi
 11. No person shall be subjected to involuntary servitude with or without pay. 
 12. The people of the commonwealth, as the people in any free and just society, have the inalienable right to associate with whomever and organize law abiding actions with whomever without fear of persecution from any government, even if the ideals of the group are opposed to that of said government.
 13. All citizens have a right to be free from double jeopardy for the same legal offense.
-14. Every person shall have the right to a free, participatory, and functional government. 
+14. Every person shall have the right to a free, participatory, and functional government.
 15. Every citizen shall have the right to bring any legitimate legal dispute before a court of law.
 
 # Article VII: States
